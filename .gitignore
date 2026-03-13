@@ -1,0 +1,47 @@
+
+# Mac / Linux
+
+.DS_Store
+
+
+
+# Logs
+
+*.log
+
+
+
+# Environment
+
+.env
+
+
+
+# IDEs
+
+.idea/
+
+.vscode/
+
+
+
+# Node
+
+node_modules/
+
+
+
+# Java / Spring
+
+backend/target/
+
+backend/.mvn/
+
+*.class
+
+
+
+# OS
+
+Thumbs.db
+
