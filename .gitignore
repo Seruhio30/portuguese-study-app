@@ -45,3 +45,17 @@ backend/.mvn/
 
 Thumbs.db
 
+# Java
+target/
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# node (si algún día usas)
+node_modules/
